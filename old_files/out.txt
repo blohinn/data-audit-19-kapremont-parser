@@ -1,0 +1,10 @@
+ул. Советская, д. 25|/overhaul/overhaul/services/2900015|2900015
+ул. Советская, д. 7|/overhaul/overhaul/services/2898296|2898296
+ул. Советская, д. 9А|/overhaul/overhaul/services/2895939|2895939
+ул. Солидарности, д. 14|/overhaul/overhaul/services/2904444|2904444
+ул. Хайдара Бигичева, д. 19|/overhaul/overhaul/services/2907329|2907329
+ул. Хайдара Бигичева, д. 29|/overhaul/overhaul/services/2901926|2901926
+ул. Хайдара Бигичева, д. 32|/overhaul/overhaul/services/2902054|2902054
+ул. Чишмяле, д. 15|/overhaul/overhaul/services/2896070|2896070
+ул. Юлиуса Фучика, д. 127|/overhaul/overhaul/services/2907968|2907968
+ул. Юлиуса Фучика, д. 143|/overhaul/overhaul/services/2899308|2899308

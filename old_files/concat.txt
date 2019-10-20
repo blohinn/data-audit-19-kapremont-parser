@@ -1,0 +1,392 @@
+ул. Айдарова, д. 27А|/overhaul/overhaul/services/2904353|2904353
+ул. Белинского, д. 4|/overhaul/overhaul/services/2906468|2906468
+ул. Белинского, д. 6|/overhaul/overhaul/services/2897708|2897708
+ул. Галиаскара Камала, д. 9|/overhaul/overhaul/services/2902248|2902248
+ул. Дементьева, д. 31|/overhaul/overhaul/services/2904268|2904268
+ул. Дементьева, д. 37|/overhaul/overhaul/services/2898624|2898624
+ул. Желябова, д. 2|/overhaul/overhaul/services/2897472|2897472
+ул. Индустриальная, д. 11|/overhaul/overhaul/services/2908407|2908407
+ул. Карагандинская, д. 6|/overhaul/overhaul/services/2898248|2898248
+ул. 2-я Ленинградская, д. 10|/overhaul/overhaul/services/2897203|2897203
+ул. 2-я Ленинградская, д. 12|/overhaul/overhaul/services/2903269|2903269
+ул. 2-я Ленинградская, д. 14|/overhaul/overhaul/services/2897090|2897090
+ул. Ленинградская, д. 57А|/overhaul/overhaul/services/2895229|2895229
+ул. Лукина, д. 1|/overhaul/overhaul/services/2909613|2909613
+ул. Лукина, д. 16|/overhaul/overhaul/services/2903238|2903238
+ул. Лукина, д. 5|/overhaul/overhaul/services/2908223|2908223
+ул. Лукина, д. 53|/overhaul/overhaul/services/2900803|2900803
+ул. Лукина, д. 55|/overhaul/overhaul/services/2901295|2901295
+ул. Лукина, д. 7А|/overhaul/overhaul/services/2908444|2908444
+ул. Лукина, д. 9А|/overhaul/overhaul/services/2906014|2906014
+ул. Максимова, д. 29|/overhaul/overhaul/services/2904487|2904487
+ул. Максимова, д. 3|/overhaul/overhaul/services/2900683|2900683
+ул. Максимова, д. 31|/overhaul/overhaul/services/2900434|2900434
+ул. Максимова, д. 45А|/overhaul/overhaul/services/2901789|2901789
+ул. Молодежная, д. 10А|/overhaul/overhaul/services/2898608|2898608
+ул. Ново-Караваевская, д. 3|/overhaul/overhaul/services/2904119|2904119
+ул. Ново-Караваевская, д. 4|/overhaul/overhaul/services/2898475|2898475
+ул. Ново-Караваевская, д. 4А|/overhaul/overhaul/services/2896651|2896651
+ул. Ново-Караваевская, д. 5|/overhaul/overhaul/services/2906382|2906382
+ул. Ново-Караваевская, д. 6|/overhaul/overhaul/services/2905030|2905030
+ул. Ново-Караваевская, д. 8А|/overhaul/overhaul/services/2902119|2902119
+ул. Рихарда Зорге, д. 8|/overhaul/overhaul/services/2898083|2898083
+ул. Северополюсная, д. 28А|/overhaul/overhaul/services/2904022|2904022
+ул. Социалистическая, д. 11/14|/overhaul/overhaul/services/2909078|2909078
+ул. Социалистическая, д. 7|/overhaul/overhaul/services/2904457|2904457
+ул. Тимирязева, д. 8|/overhaul/overhaul/services/2907721|2907721
+ул. Чапаева, д. 13|/overhaul/overhaul/services/2908602|2908602
+ул. Чапаева, д. 15|/overhaul/overhaul/services/2904608|2904608
+ул. Чапаева, д. 42|/overhaul/overhaul/services/2896543|2896543
+ул. Чапаева, д. 42А|/overhaul/overhaul/services/2906190|2906190
+ул. Чапаева, д. 43|/overhaul/overhaul/services/2907746|2907746
+ул. Чапаева, д. 47|/overhaul/overhaul/services/2905876|2905876
+ул. Чапаева, д. 51А|/overhaul/overhaul/services/2899959|2899959
+ул. Чапаева, д. 51Б|/overhaul/overhaul/services/2902089|2902089
+ул. Чапаева, д. 53А|/overhaul/overhaul/services/2908779|2908779
+ул. Челюскина, д. 10|/overhaul/overhaul/services/2909047|2909047
+ул. Челюскина, д. 4/13|/overhaul/overhaul/services/2902065|2902065
+ул. Челюскина, д. 60|/overhaul/overhaul/services/2895656|2895656
+ул. Челюскина, д. 68А|/overhaul/overhaul/services/2903622|2903622
+пер. Катановский, д. 5|/overhaul/overhaul/services/2906793|2906793
+ул. Абжалилова, д. 1|/overhaul/overhaul/services/2894503|2894503
+ул. Бойничная, д. 6|/overhaul/overhaul/services/2894510|2894510
+ул. Большая Красная, д. 57А|/overhaul/overhaul/services/2909336|2909336
+ул. Вишневского, д. 51|/overhaul/overhaul/services/2907875|2907875
+ул. Габдуллы Тукая, д. 102|/overhaul/overhaul/services/2899577|2899577
+ул. Галиаскара Камала, д. 45|/overhaul/overhaul/services/2909266|2909266
+ул. Дзержинского, д. 20, лит. Б|/overhaul/overhaul/services/2907671|2907671
+ул. Дзержинского, д. 22|/overhaul/overhaul/services/2904247|2904247
+ул. Достоевского, д. 53|/overhaul/overhaul/services/2903704|2903704
+ул. Достоевского, д. 74|/overhaul/overhaul/services/2896364|2896364
+ул. Достоевского, д. 76|/overhaul/overhaul/services/2905356|2905356
+ул. Достоевского, д. 79А|/overhaul/overhaul/services/2908401|2908401
+ул. Жуковского, д. 2/11|/overhaul/overhaul/services/2894288|2894288
+ул. Заслонова, д. 26|/overhaul/overhaul/services/2909046|2909046
+ул. Зинина, д. 15|/overhaul/overhaul/services/2899362|2899362
+ул. Зинина, д. 41|/overhaul/overhaul/services/2900007|2900007
+ул. Калинина, д. 3|/overhaul/overhaul/services/2901325|2901325
+ул. Карима Тинчурина, д. 1|/overhaul/overhaul/services/2896681|2896681
+ул. Карима Тинчурина, д. 1А|/overhaul/overhaul/services/2907427|2907427
+ул. Карима Тинчурина, д. 7|/overhaul/overhaul/services/2907619|2907619
+ул. Карима Тинчурина, д. 7А|/overhaul/overhaul/services/2895751|2895751
+ул. Карла Маркса, д. 24|/overhaul/overhaul/services/2901043|2901043
+ул. Лево-Булачная, д. 56|/overhaul/overhaul/services/2908333|2908333
+ул. Лесгафта, д. 21|/overhaul/overhaul/services/2896381|2896381
+ул. Лесгафта, д. 28|/overhaul/overhaul/services/2906048|2906048
+ул. Магаданская, д. 18 (л. А)|/overhaul/overhaul/services/2904811|2904811
+ул. Магаданская, д. 18 (л. Б)|/overhaul/overhaul/services/2904811|2904811
+ул. Маршальская, д. 25|/overhaul/overhaul/services/2896521|2896521
+ул. Маршальская, д. 25А|/overhaul/overhaul/services/2899224|2899224
+ул. Товарищеская, д. 16|/overhaul/overhaul/services/2903673|2903673
+ул. Товарищеская, д. 33|/overhaul/overhaul/services/2894050|2894050
+ул. 25-го Октября, д. 20/8|/overhaul/overhaul/services/2902406|2902406
+ул. 40 лет Октября, д. 17|/overhaul/overhaul/services/2909153|2909153
+ул. 40 лет Октября, д. 19|/overhaul/overhaul/services/2894200|2894200
+ул. Галимджана Баруди, д. 7|/overhaul/overhaul/services/2901432|2901432
+ул. Дежнева, д. 2, корп. 2|/overhaul/overhaul/services/2901073|2901073
+ул. Железнодорожников, д. 15|/overhaul/overhaul/services/2897309|2897309
+ул. Железнодорожников, д. 20|/overhaul/overhaul/services/2902712|2902712
+ул. Железнодорожников, д. 21|/overhaul/overhaul/services/2904520|2904520
+ул. Ильича, д. 38|/overhaul/overhaul/services/2904632|2904632
+ул. Калугинская, д. 4|/overhaul/overhaul/services/2898098|2898098
+ул. Клары Цеткин, д. 11|/overhaul/overhaul/services/2904054|2904054
+ул. Кулахметова, д. 3|/overhaul/overhaul/services/2897242|2897242
+ул. Лейтенанта Красикова, д. 12|/overhaul/overhaul/services/2897413|2897413
+ул. Лейтенанта Красикова, д. 14|/overhaul/overhaul/services/2904094|2904094
+ул. Лейтенанта Красикова, д. 18|/overhaul/overhaul/services/2904694|2904694
+ул. Лейтенанта Красикова, д. 4|/overhaul/overhaul/services/2908856|2908856
+ул. Лейтенанта Красикова, д. 7|/overhaul/overhaul/services/2903064|2903064
+ул. Лушникова, д. 3А|/overhaul/overhaul/services/2894464|2894464
+ул. Можайского, д. 16|/overhaul/overhaul/services/2903168|2903168
+ул. Можайского, д. 16А|/overhaul/overhaul/services/2909545|2909545
+ул. Николая Столярова, д. 6|/overhaul/overhaul/services/2894879|2894879
+ул. Окольная, д. 1|/overhaul/overhaul/services/2896883|2896883
+ул. Окольная, д. 20|/overhaul/overhaul/services/2895030|2895030
+ул. Окольная, д. 28|/overhaul/overhaul/services/2907683|2907683
+ул. Окольная, д. 3|/overhaul/overhaul/services/2899793|2899793
+ул. Ползунова, д. 5|/overhaul/overhaul/services/2898119|2898119
+ул. Поперечно-Базарная, д. 57|/overhaul/overhaul/services/2899974|2899974
+ул. Пролетарская, д. 19|/overhaul/overhaul/services/2898833|2898833
+ул. Пролетарская, д. 21|/overhaul/overhaul/services/2898029|2898029
+ул. Революционная, д. 49|/overhaul/overhaul/services/2901281|2901281
+ул. Светлая, д. 19|/overhaul/overhaul/services/2901694|2901694
+ул. Серп и Молот, д. 24|/overhaul/overhaul/services/2903498|2903498
+ул. Степана Халтурина, д. 10|/overhaul/overhaul/services/2903000|2903000
+ул. Фрунзе, д. 13|/overhaul/overhaul/services/2900209|2900209
+ул. Фрунзе, д. 7|/overhaul/overhaul/services/2907741|2907741
+ул. Чкалова, д. 4/2|/overhaul/overhaul/services/2908500|2908500
+ул. Юбилейная, д. 11|/overhaul/overhaul/services/2899180|2899180
+ул. Юбилейная, д. 9|/overhaul/overhaul/services/2895232|2895232
+ул. Ягодинская, д. 27|/overhaul/overhaul/services/2908893|2908893
+пр. Ямашева, д. 17|/overhaul/overhaul/services/2899533|2899533
+пр. Ямашева, д. 19|/overhaul/overhaul/services/2894786|2894786
+ул. Академика Королева, д. 8|/overhaul/overhaul/services/2906264|2906264
+ул. Бакалейная, д. 44А|/overhaul/overhaul/services/2904937|2904937
+ул. Бакалейная, д. 50|/overhaul/overhaul/services/2900012|2900012
+ул. Батыршина, д. 21|/overhaul/overhaul/services/2908176|2908176
+ул. Блюхера, д. 2|/overhaul/overhaul/services/2902143|2902143
+ул. Блюхера, д. 81|/overhaul/overhaul/services/2897756|2897756
+ул. Блюхера, д. 83|/overhaul/overhaul/services/2899858|2899858
+ул. Бондаренко, д. 9|/overhaul/overhaul/services/2897959|2897959
+ул. Волгоградская, д. 23|/overhaul/overhaul/services/2900746|2900746
+ул. Восстания, д. 123|/overhaul/overhaul/services/2907222|2907222
+ул. Восстания, д. 123А|/overhaul/overhaul/services/2908737|2908737
+ул. Восстания, д. 28|/overhaul/overhaul/services/2896245|2896245
+ул. Восстания, д. 42|/overhaul/overhaul/services/2902192|2902192
+ул. Восстания, д. 54|/overhaul/overhaul/services/2897386|2897386
+ул. Восстания, д. 77|/overhaul/overhaul/services/2897769|2897769
+ул. Восход, д. 15|/overhaul/overhaul/services/2896777|2896777
+ул. Восход, д. 3|/overhaul/overhaul/services/2909653|2909653
+ул. Выборгская, д. 3|/overhaul/overhaul/services/2905854|2905854
+ул. Выборгская, д. 4|/overhaul/overhaul/services/2905033|2905033
+ул. Гагарина, д. 103|/overhaul/overhaul/services/2901487|2901487
+ул. Гагарина, д. 107|/overhaul/overhaul/services/2895089|2895089
+ул. Гагарина, д. 115|/overhaul/overhaul/services/2899948|2899948
+ул. Галимджана Баруди, д. 21|/overhaul/overhaul/services/2896347|2896347
+ул. Гудованцева, д. 37|/overhaul/overhaul/services/2907606|2907606
+ул. Гудованцева, д. 41|/overhaul/overhaul/services/2898929|2898929
+ул. Гудованцева, д. 41А|/overhaul/overhaul/services/2900398|2900398
+ул. Гудованцева, д. 45|/overhaul/overhaul/services/2894217|2894217
+ул. Гудованцева, д. 47|/overhaul/overhaul/services/2894161|2894161
+ул. Декабристов, д. 100|/overhaul/overhaul/services/2904401|2904401
+ул. Декабристов, д. 102|/overhaul/overhaul/services/2909716|2909716
+ул. Декабристов, д. 104|/overhaul/overhaul/services/2896951|2896951
+ул. Декабристов, д. 108|/overhaul/overhaul/services/2899440|2899440
+ул. Декабристов, д. 112|/overhaul/overhaul/services/2900291|2900291
+ул. Декабристов, д. 113|/overhaul/overhaul/services/2900642|2900642
+ул. Декабристов, д. 115|/overhaul/overhaul/services/2900641|2900641
+ул. Декабристов, д. 119|/overhaul/overhaul/services/2896981|2896981
+ул. Декабристов, д. 123|/overhaul/overhaul/services/2897801|2897801
+ул. Декабристов, д. 131|/overhaul/overhaul/services/2908436|2908436
+ул. Декабристов, д. 186|/overhaul/overhaul/services/2895726|2895726
+ул. Декабристов, д. 93|/overhaul/overhaul/services/2908885|2908885
+ул. Енисейская, д. 8|/overhaul/overhaul/services/2907614|2907614
+ул. Кулахметова, д. 18|/overhaul/overhaul/services/2902919|2902919
+ул. Рахимова, д. 23|/overhaul/overhaul/services/2907538|2907538
+ул. Сабан, д. 3|/overhaul/overhaul/services/2903001|2903001
+ул. Серова, д. 11|/overhaul/overhaul/services/2899192|2899192
+ул. Серова, д. 15|/overhaul/overhaul/services/2901054|2901054
+ул. Серова, д. 35|/overhaul/overhaul/services/2904279|2904279
+ул. Химиков, д. 21|/overhaul/overhaul/services/2904997|2904997
+ул. Химиков, д. 3|/overhaul/overhaul/services/2903242|2903242
+ул. Химиков, д. 35|/overhaul/overhaul/services/2908808|2908808
+ул. Химиков, д. 37|/overhaul/overhaul/services/2897811|2897811
+ул. Химиков, д. 53|/overhaul/overhaul/services/2905280|2905280
+ул. Химиков, д. 63|/overhaul/overhaul/services/2901534|2901534
+ул. Чистопольская, д. 5|/overhaul/overhaul/services/2907701|2907701
+ул. Шамиля Усманова, д. 13|/overhaul/overhaul/services/2907804|2907804
+ул. Шамиля Усманова, д. 13А|/overhaul/overhaul/services/2900115|2900115
+ул. Шамиля Усманова, д. 20|/overhaul/overhaul/services/2894704|2894704
+пр. Ибрагимова, д. 57|/overhaul/overhaul/services/2896489|2896489
+ул. Фатыха Амирхана, д. 109|/overhaul/overhaul/services/2908132|2908132
+ул. Фатыха Амирхана, д. 2|/overhaul/overhaul/services/2899293|2899293
+ул. Фатыха Амирхана, д. 27|/overhaul/overhaul/services/2906681|2906681
+ул. Фатыха Амирхана, д. 41|/overhaul/overhaul/services/2906449|2906449
+ул. Фатыха Амирхана, д. 43|/overhaul/overhaul/services/2900568|2900568
+ул. Фатыха Амирхана, д. 45|/overhaul/overhaul/services/2902876|2902876
+ул. Фатыха Амирхана, д. 53А|/overhaul/overhaul/services/2901810|2901810
+ул. Фатыха Амирхана, д. 53Б|/overhaul/overhaul/services/2894953|2894953
+ул. Фатыха Амирхана, д. 71|/overhaul/overhaul/services/2906099|2906099
+ул. Фатыха Амирхана, д. 97|/overhaul/overhaul/services/2895371|2895371
+пр. Ямашева, д. 49|/overhaul/overhaul/services/2896431|2896431
+пр. Ямашева, д. 65|/overhaul/overhaul/services/2905301|2905301
+пр. Ямашева, д. 81|/overhaul/overhaul/services/2907789|2907789
+пр. Ямашева, д. 85|/overhaul/overhaul/services/2901016|2901016
+пр. Ямашева, д. 90|/overhaul/overhaul/services/2909192|2909192
+ул. Адоратского, д. 10|/overhaul/overhaul/services/2905270|2905270
+ул. Адоратского, д. 15|/overhaul/overhaul/services/2897081|2897081
+ул. Адоратского, д. 45|/overhaul/overhaul/services/2902764|2902764
+ул. Адоратского, д. 62|/overhaul/overhaul/services/2907850|2907850
+ул. Апастовская, д. 11|/overhaul/overhaul/services/2901529|2901529
+ул. Волгоградская, д. 35|/overhaul/overhaul/services/2902585|2902585
+ул. Волгоградская, д. 37|/overhaul/overhaul/services/2898653|2898653
+ул. Волгоградская, д. 43|/overhaul/overhaul/services/2895683|2895683
+ул. Восстания, д. 18|/overhaul/overhaul/services/2895620|2895620
+ул. Гаврилова, д. 18А|/overhaul/overhaul/services/2897742|2897742
+ул. Короленко, д. 43|/overhaul/overhaul/services/2907604|2907604
+ул. Короленко, д. 52А|/overhaul/overhaul/services/2903722|2903722
+ул. Маршала Чуйкова, д. 1|/overhaul/overhaul/services/2903624|2903624
+ул. Маршала Чуйкова, д. 17|/overhaul/overhaul/services/2909316|2909316
+ул. Маршала Чуйкова, д. 27А|/overhaul/overhaul/services/2898588|2898588
+ул. Маршала Чуйкова, д. 3|/overhaul/overhaul/services/2904928|2904928
+ул. Маршала Чуйкова, д. 77|/overhaul/overhaul/services/2899593|2899593
+ул. Маршала Чуйкова, д. 9|/overhaul/overhaul/services/2898127|2898127
+ул. Меридианная, д. 13|/overhaul/overhaul/services/2898130|2898130
+ул. Меридианная, д. 17|/overhaul/overhaul/services/2896056|2896056
+ул. Меридианная, д. 7|/overhaul/overhaul/services/2902698|2902698
+ул. Монтажная, д. 5|/overhaul/overhaul/services/2902897|2902897
+ул. Мусина, д. 59а|/overhaul/overhaul/services/2905377|2905377
+ул. Мусина, д. 61а|/overhaul/overhaul/services/2903445|2903445
+ул. Октябрьская, д. 36|/overhaul/overhaul/services/2908734|2908734
+ул. Четаева, д. 20|/overhaul/overhaul/services/2903219|2903219
+ул. Четаева, д. 22|/overhaul/overhaul/services/2897168|2897168
+ул. Четаева, д. 24|/overhaul/overhaul/services/2896134|2896134
+ул. Четаева, д. 25|/overhaul/overhaul/services/2895745|2895745
+ул. Четаева, д. 33|/overhaul/overhaul/services/2897486|2897486
+ул. Четаева, д. 35|/overhaul/overhaul/services/2900136|2900136
+ул. Четаева, д. 5|/overhaul/overhaul/services/2899459|2899459
+ул. Чистопольская, д. 47|/overhaul/overhaul/services/2906114|2906114
+ул. Чистопольская, д. 61|/overhaul/overhaul/services/2900896|2900896
+городок Военный 33, д. 1|/overhaul/overhaul/services/2908170|2908170
+пр. Победы, д. 18|/overhaul/overhaul/services/2902901|2902901
+пр. Победы, д. 19|/overhaul/overhaul/services/2907157|2907157
+пр. Победы, д. 24|/overhaul/overhaul/services/2901254|2901254
+пр. Победы, д. 26|/overhaul/overhaul/services/2909146|2909146
+ул. Авангардная, д. 66|/overhaul/overhaul/services/2895771|2895771
+ул. Братьев Касимовых, д. 60|/overhaul/overhaul/services/2904453|2904453
+ул. Братьев Касимовых, д. 62|/overhaul/overhaul/services/2899537|2899537
+ул. Братьев Касимовых, д. 66|/overhaul/overhaul/services/2898556|2898556
+ул. Гарифьянова, д. 4|/overhaul/overhaul/services/2903873|2903873
+ул. Дубравная, д. 3|/overhaul/overhaul/services/2895512|2895512
+ул. Дубравная, д. 3А|/overhaul/overhaul/services/2895613|2895613
+ул. Дубравная, д. 47|/overhaul/overhaul/services/2898064|2898064
+ул. Дубравная, д. 7|/overhaul/overhaul/services/2894805|2894805
+ул. Комиссара Габишева, д. 19а|/overhaul/overhaul/services/2894752|2894752
+ул. Комиссара Габишева, д. 29|/overhaul/overhaul/services/2902371|2902371
+ул. Магистральная, д. 83|/overhaul/overhaul/services/2909008|2909008
+ул. Модельная, д. 10|/overhaul/overhaul/services/2904389|2904389
+ул. Павлюхина, д. 116|/overhaul/overhaul/services/2900382|2900382
+ул. Профессора Камая, д. 15А|/overhaul/overhaul/services/2905711|2905711
+ул. Рихарда Зорге, д. 100|/overhaul/overhaul/services/2907572|2907572
+ул. Рихарда Зорге, д. 53|/overhaul/overhaul/services/2903385|2903385
+ул. Рихарда Зорге, д. 76|/overhaul/overhaul/services/2897618|2897618
+ул. Рихарда Зорге, д. 92|/overhaul/overhaul/services/2905969|2905969
+ул. Рихарда Зорге, д. 93|/overhaul/overhaul/services/2906281|2906281
+ул. Рихарда Зорге, д. 93А|/overhaul/overhaul/services/2905900|2905900
+ул. Рихарда Зорге, д. 94|/overhaul/overhaul/services/2899997|2899997
+ул. Рихарда Зорге, д. 95|/overhaul/overhaul/services/2904774|2904774
+ул. Рихарда Зорге, д. 96|/overhaul/overhaul/services/2899582|2899582
+ул. Рихарда Зорге, д. 96А|/overhaul/overhaul/services/2902230|2902230
+ул. Сафиуллина, д. 12|/overhaul/overhaul/services/2904514|2904514
+ул. Сыртлановой, д. 15|/overhaul/overhaul/services/2905454|2905454
+ул. Сыртлановой, д. 19|/overhaul/overhaul/services/2900909|2900909
+ул. Халева, д. 13|/overhaul/overhaul/services/2904735|2904735
+ул. Хусаина Мавлютова, д. 48|/overhaul/overhaul/services/2902314|2902314
+ул. Хусаина Мавлютова, д. 9|/overhaul/overhaul/services/2904525|2904525
+ул. Юлиуса Фучика, д. 12|/overhaul/overhaul/services/2904724|2904724
+ул. Юлиуса Фучика, д. 16|/overhaul/overhaul/services/2895361|2895361
+ул. Юлиуса Фучика, д. 18|/overhaul/overhaul/services/2906503|2906503
+ул. Юлиуса Фучика, д. 22|/overhaul/overhaul/services/2903674|2903674
+ул. Юлиуса Фучика, д. 24|/overhaul/overhaul/services/2908516|2908516
+ул. Юлиуса Фучика, д. 4|/overhaul/overhaul/services/2894768|2894768
+ул. Юлиуса Фучика, д. 6|/overhaul/overhaul/services/2903773|2903773
+ул. Юлиуса Фучика, д. 97|/overhaul/overhaul/services/2903951|2903951
+пр. Победы, д. 100|/overhaul/overhaul/services/2898463|2898463
+пр. Победы, д. 144|/overhaul/overhaul/services/2895165|2895165
+пр. Победы, д. 146|/overhaul/overhaul/services/2899018|2899018
+пр. Победы, д. 166|/overhaul/overhaul/services/2895497|2895497
+пр. Победы, д. 174|/overhaul/overhaul/services/2905335|2905335
+пр. Победы, д. 190|/overhaul/overhaul/services/2907463|2907463
+пр. Победы, д. 192|/overhaul/overhaul/services/2903027|2903027
+пр. Победы, д. 76|/overhaul/overhaul/services/2905967|2905967
+пр. Победы, д. 80|/overhaul/overhaul/services/2900706|2900706
+пр. Победы, д. 84|/overhaul/overhaul/services/2907719|2907719
+ул. Мамадышский тракт, д. 34|/overhaul/overhaul/services/2905121|2905121
+ул. Аделя Кутуя, д. 3|/overhaul/overhaul/services/2908967|2908967
+ул. Аделя Кутуя, д. 3а|/overhaul/overhaul/services/2899894|2899894
+ул. Аделя Кутуя, д. 5|/overhaul/overhaul/services/2909472|2909472
+ул. Аделя Кутуя, д. 54|/overhaul/overhaul/services/2906178|2906178
+ул. Аделя Кутуя, д. 7|/overhaul/overhaul/services/2900206|2900206
+ул. Аделя Кутуя, д. 70|/overhaul/overhaul/services/2897911|2897911
+ул. Аделя Кутуя, д. 88|/overhaul/overhaul/services/2907563|2907563
+ул. Академика Глушко, д. 24|/overhaul/overhaul/services/2901260|2901260
+ул. Академика Глушко, д. 39|/overhaul/overhaul/services/2905691|2905691
+ул. Академика Глушко, д. 41|/overhaul/overhaul/services/2901808|2901808
+ул. Академика Глушко, д. 43|/overhaul/overhaul/services/2896006|2896006
+ул. Академика Глушко, д. 49|/overhaul/overhaul/services/2902114|2902114
+ул. Академика Губкина, д. 42|/overhaul/overhaul/services/2905359|2905359
+ул. Академика Губкина, д. 5|/overhaul/overhaul/services/2907960|2907960
+ул. Академика Губкина, д. 6|/overhaul/overhaul/services/2901860|2901860
+ул. Академика Губкина, д. 8|/overhaul/overhaul/services/2903129|2903129
+ул. Академика Кирпичникова, д. 10|/overhaul/overhaul/services/2895203|2895203
+ул. Академика Кирпичникова, д. 16|/overhaul/overhaul/services/2896844|2896844
+ул. Академика Сахарова, д. 13|/overhaul/overhaul/services/2894175|2894175
+ул. Академика Сахарова,. 15|/overhaul/overhaul/services/2900777|2900777
+ул. Академика Сахарова, д. 21|/overhaul/overhaul/services/2909640|2909640
+ул. Академика Сахарова, д. 25|/overhaul/overhaul/services/2905046|2905046
+ул. Академика Сахарова, д. 3|/overhaul/overhaul/services/2902093|2902093
+ул. Высокогорская, д. 5|/overhaul/overhaul/services/2898227|2898227
+ул. Высокогорская, д. 9|/overhaul/overhaul/services/2905324|2905324
+ул. Вяземская, д. 2|/overhaul/overhaul/services/2897387|2897387
+ул. Галии Кайбицкой, д. 4|/overhaul/overhaul/services/2900243|2900243
+ул. Гвардейская, д. 20|/overhaul/overhaul/services/2908482|2908482
+ул. Гвардейская, д. 22|/overhaul/overhaul/services/2899307|2899307
+ул. Гвардейская, д. 34|/overhaul/overhaul/services/2895060|2895060
+ул. Гвардейская, д. 36|/overhaul/overhaul/services/2899163|2899163
+ул. Гвардейская, д. 42|/overhaul/overhaul/services/2907203|2907203
+ул. Гвардейская, д. 48, корп. 2|/overhaul/overhaul/services/2907765|2907765
+ул. Главная, д. 47|/overhaul/overhaul/services/2900638|2900638
+ул. Главная, д. 62/15|/overhaul/overhaul/services/2906581|2906581
+ул. Главная, д. 69|/overhaul/overhaul/services/2901611|2901611
+ул. Главная, д. 71Б|/overhaul/overhaul/services/2907715|2907715
+ул. Дорожная, д. 20|/overhaul/overhaul/services/2898284|2898284
+ул. Журналистов, д. 11|/overhaul/overhaul/services/2897916|2897916
+ул. Журналистов, д. 18|/overhaul/overhaul/services/2903867|2903867
+ул. Журналистов, д. 7|/overhaul/overhaul/services/2898659|2898659
+ул. Журналистов, д. 9|/overhaul/overhaul/services/2899679|2899679
+ул. Закиева, д. 37|/overhaul/overhaul/services/2894559|2894559
+ул. Космонавтов, д. 30|/overhaul/overhaul/services/2907143|2907143
+ул. Космонавтов, д. 40|/overhaul/overhaul/services/2901361|2901361
+ул. Красной Позиции, д. 1|/overhaul/overhaul/services/2903965|2903965
+ул. Красной Позиции, д. 29|/overhaul/overhaul/services/2902163|2902163
+ул. Красной Позиции, д. 29А|/overhaul/overhaul/services/2903446|2903446
+ул. Красной Позиции, д. 29Б|/overhaul/overhaul/services/2896901|2896901
+ул. Красной Позиции, д. 41|/overhaul/overhaul/services/2903495|2903495
+ул. Красной Позиции, д. 7|/overhaul/overhaul/services/2900613|2900613
+ул. Красной Позиции, д. 9|/overhaul/overhaul/services/2902061|2902061
+ул. Красной Позиции, д. 9А|/overhaul/overhaul/services/2904891|2904891
+ул. Круговая, д. 4|/overhaul/overhaul/services/2904482|2904482
+ул. Курчатова, д. 17|/overhaul/overhaul/services/2902998|2902998
+ул. Курчатова, д. 19|/overhaul/overhaul/services/2895265|2895265
+ул. Латышских Стрелков, д. 11|/overhaul/overhaul/services/2904439|2904439
+ул. Латышских Стрелков, д. 39|/overhaul/overhaul/services/2909071|2909071
+ул. Латышских Стрелков, д. 7|/overhaul/overhaul/services/2904331|2904331
+ул. Латышских Стрелков, д. 9|/overhaul/overhaul/services/2897694|2897694
+ул. Липатова, д. 13|/overhaul/overhaul/services/2899382|2899382
+ул. Липатова, д. 21|/overhaul/overhaul/services/2898814|2898814
+ул. Липатова, д. 5|/overhaul/overhaul/services/2909369|2909369
+ул. Ломжинская, д. 1|/overhaul/overhaul/services/2894889|2894889
+ул. Ломжинская, д. 22|/overhaul/overhaul/services/2895460|2895460
+ул. Ломжинская, д. 5|/overhaul/overhaul/services/2894173|2894173
+ул. Минская, д. 20|/overhaul/overhaul/services/2908731|2908731
+ул. Мира, д. 10|/overhaul/overhaul/services/2907647|2907647
+ул. Мира, д. 15|/overhaul/overhaul/services/2900126|2900126
+ул. Мира, д. 17/2|/overhaul/overhaul/services/2900842|2900842
+ул. Мира, д. 24|/overhaul/overhaul/services/2898289|2898289
+ул. Мира, д. 33|/overhaul/overhaul/services/2904061|2904061
+ул. Мира, д. 34|/overhaul/overhaul/services/2898432|2898432
+ул. Мира, д. 37|/overhaul/overhaul/services/2898708|2898708
+ул. Наки Исанбета, д. 55|/overhaul/overhaul/services/2904144|2904144
+ул. Начальная, д. 11А|/overhaul/overhaul/services/2898233|2898233
+ул. Начальная, д. 12А|/overhaul/overhaul/services/2903808|2903808
+ул. Начальная, д. 2|/overhaul/overhaul/services/2901465|2901465
+ул. Начальная, д. 4|/overhaul/overhaul/services/2898832|2898832
+ул. Новаторов, д. 9|/overhaul/overhaul/services/2900307|2900307
+ул. Ново-Азинская, д. 43|/overhaul/overhaul/services/2902709|2902709
+ул. Ново-Азинская, д. 45|/overhaul/overhaul/services/2898587|2898587
+ул. Парковая, д. 31|/overhaul/overhaul/services/2907058|2907058
+ул. Парковая, д. 6|/overhaul/overhaul/services/2904892|2904892
+ул. Патриса Лумумбы, д. 54|/overhaul/overhaul/services/2898966|2898966
+ул. Пионерская, д. 4|/overhaul/overhaul/services/2895693|2895693
+ул. Правды, д. 4А|/overhaul/overhaul/services/2899515|2899515
+ул. Рихарда Зорге, д. 10|/overhaul/overhaul/services/2905997|2905997
+ул. Рихарда Зорге, д. 12|/overhaul/overhaul/services/2904635|2904635
+ул. Рихарда Зорге, д. 12А|/overhaul/overhaul/services/2902598|2902598
+ул. Рихарда Зорге, д. 16|/overhaul/overhaul/services/2901111|2901111
+ул. Рихарда Зорге, д. 16А|/overhaul/overhaul/services/2902281|2902281
+ул. Родины, д. 29|/overhaul/overhaul/services/2898020|2898020
+ул. Родины, д. 31|/overhaul/overhaul/services/2902545|2902545
+ул. Родины, д. 33|/overhaul/overhaul/services/2904274|2904274
+ул. Советская, д. 11|/overhaul/overhaul/services/2905529|2905529
+ул. Советская, д. 2/14|/overhaul/overhaul/services/2895369|2895369
+ул. Советская, д. 20|/overhaul/overhaul/services/2894989|2894989
+ул. Советская, д. 25|/overhaul/overhaul/services/2900015|2900015
+ул. Советская, д. 7|/overhaul/overhaul/services/2898296|2898296
+ул. Советская, д. 9А|/overhaul/overhaul/services/2895939|2895939
+ул. Солидарности, д. 14|/overhaul/overhaul/services/2904444|2904444
+ул. Хайдара Бигичева, д. 19|/overhaul/overhaul/services/2907329|2907329
+ул. Хайдара Бигичева, д. 29|/overhaul/overhaul/services/2901926|2901926
+ул. Хайдара Бигичева, д. 32|/overhaul/overhaul/services/2902054|2902054
+ул. Чишмяле, д. 15|/overhaul/overhaul/services/2896070|2896070
+ул. Юлиуса Фучика, д. 127|/overhaul/overhaul/services/2907968|2907968
+ул. Юлиуса Фучика, д. 143|/overhaul/overhaul/services/2899308|2899308
